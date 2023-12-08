@@ -1,1 +1,0 @@
-# scrip_de_red
