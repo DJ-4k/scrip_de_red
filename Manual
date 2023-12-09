@@ -1,0 +1,15 @@
+-[OPCION] Tienen los posibles valores
+		-c Es para hacer conexion cableada
+		-i Es para hacer conexion inalambrica
+		-? Es para desplegar este menu
+
+	-c espera solo dos posibles parametros
+		'a' que sirve para indicar que vas a realizar una conexion cableada de forma automatica
+		'm' que sirve para indicar que vas a realizar una conexion cableada de forma manual
+	-i espera solo cuatro posibles parametos
+		's' Es para inidcar que vas a realizar una conexiona una red inalambrica sin contraseña
+		'c' Es para indicar que vas a realizar una conexion a una red con contraseña
+		'w' Es para indicar que vas a realizar una conexion a una red con contraseña y cifrado wpa2
+		'p' Es para indicar que vas a realizar una conexion a una red mediante el metodo wps
+		//////////////Solo los parametros 's', 'c' y 'w' cuentan con el metodo automatico y manual
+		//////////////El parametro 'p' cuenta con las opciones de wps por pbc y pin
